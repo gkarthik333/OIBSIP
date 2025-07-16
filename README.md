@@ -9,17 +9,17 @@
 1. **Exploratory Data Analysis (EDA) on Retail Sales Data**  
    - Tools: Python (Pandas, Numpy, Matplotlib, Seaborn, Plotly)
    - Key Tasks: Performed EDA, identified sales trends
-   - [Code](./EDA - Re.ipynb)
+    - <a href="https://github.com/gkarthik333/OIBSIP/blob/main/Task%201/EDA%20-%20Retail%20Sale.ipynb">View</a>
 
 2. **Data Cleaning - New York City Airbnb Open Data**  
    - Tools: Pandas, Numpy, Matplotlib, Seaborn
    - Key Tasks: Data Cleaning
-   - [Code](./NYC.ipynb)
+   - <a href="https://github.com/gkarthik333/OIBSIP/blob/main/Task%202/NYC.ipynb">View</a>
 
 3. **Marketing Analytics: Customer Segmentation**  
    - Tools: Python (Pandas, Numpy, Matplotlib, Seaborn, Scikit-learn)
    - Key Tasks: Clustering analysis using K-Means
-   - [Code](./CSA.ipynb)
+    - <a href="https://github.com/gkarthik333/OIBSIP/blob/main/Task%203/CSA.ipynb">View</a>
 
 ## 🛠 Skills Gained
 - Python (Pandas, NumPy, Matplotlib, Seaborn, Plotly)
