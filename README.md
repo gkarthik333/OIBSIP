@@ -1,38 +1,29 @@
-# <h1 align="center">  0IBSIP Data Analytics Virtual Internship</h1>
-Welcome to the Data Analytics Internship Repository
 
-## Data Analytics all projects:
-- Task 1 - Exploratory Data Analysis (EDA) on Retail Sales Data 
-   <a href="https://github.com/gkarthik333/TATA_Data-Visualization_Internship/blob/main/Online%20Retail%20Data%20Set.xlsx">View</a>
+# <h1 align="center"> Oasis Infobyte Data Analytics Internship</h1>
 
-- Task 2 - Predicting House Prices with Linear Regression
-  <a href="https://github.com/gkarthik333/TATA_Data-Visualization_Internship/blob/main/Online%20Retail%20Data%20Set.xlsx">View</a>
+📍 **Virtual Internship** | 📅 March 2025 - April 2025 **
 
-- Task 3 - Unveiling the Android App Market: Analyzing Google Play Store Data
- <a href="https://github.com/gkarthik333/TATA_Data-Visualization_Internship/blob/main/Online%20Retail%20Data%20Set.xlsx">View</a>
-
-
-# Oasis Infobyte Data Analytics Internship
-
-📍 **Virtual Internship** | 📅 Month 20XX - Month 20XX | 🏅 **Certificate Earned**
-
-## 📌 Projects Completed
-1. **Sales Data Analysis**  
-   - Tools: Python (Pandas, Matplotlib)
+## 🔷 Tasks
+### **1. Exploratory Data Analysis (EDA) on Retail Sales Data **  
+   - Tools: Python (Pandas, Numpy, Matplotlib, Seaborn, Plotly)
    - Key Tasks: Performed EDA, identified sales trends
-   - [Code](./sales_analysis.ipynb)
+   - [View](./sales_analysis.ipynb)
 
-2. **Customer Segmentation**  
-   - Tools: Scikit-learn, Seaborn
-   - Key Tasks: Clustering analysis using K-Means
+2. **Data Cleaning - New York City Airbnb Open Data**  
+   - Tools: Pandas, Numpy, Matplotlib, Seaborn
+   - Key Tasks: Data Cleaning
    - [Code](./customer_segmentation.ipynb)
 
-3. **Dashboard Development**  
-   - Tools: Tableau/Power BI
+3. **Marketing Analytics: Customer Segmentation**  
+   - Tools: Python (Pandas, Numpy, Matplotlib, Seaborn, Scikit-learn)
+   - Key Tasks: Clustering analysis using K-Means
    - Output: [View Dashboard](./dashboard/README.md)
 
 ## 🛠 Skills Gained
-- Python (Pandas, NumPy, Matplotlib)
+- Python (Pandas, NumPy, Matplotlib, Seaborn, Plotly)
 - Data Cleaning & EDA
 - Statistical Analysis
-- Data Visualization (Tableau/Power BI)
+
+
+
+
