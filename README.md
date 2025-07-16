@@ -1,7 +1,9 @@
 
 # <h1 align="center"> Oasis Infobyte Data Analytics Internship</h1>
 
-<h1 align="right">📍 Virtual Internship | 📅 March 2025 - April 2025</h1>
+<h4 align="right" style="font-size: 14px; color: #555;">
+  📍 Virtual Internship | 📅 March 2025 - April 2025
+</h4>
 
 ## 🔷 Tasks
 1. **Exploratory Data Analysis (EDA) on Retail Sales Data**  
