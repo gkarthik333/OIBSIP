@@ -9,7 +9,7 @@
 1. **Exploratory Data Analysis (EDA) on Retail Sales Data**  
    - Tools: Python (Pandas, Numpy, Matplotlib, Seaborn, Plotly)
    - Key Tasks: Performed EDA, identified sales trends
-   - [View](./sales_analysis.ipynb)
+   - [Code](./customer_segmentation.ipynb)
 
 2. **Data Cleaning - New York City Airbnb Open Data**  
    - Tools: Pandas, Numpy, Matplotlib, Seaborn
@@ -19,7 +19,7 @@
 3. **Marketing Analytics: Customer Segmentation**  
    - Tools: Python (Pandas, Numpy, Matplotlib, Seaborn, Scikit-learn)
    - Key Tasks: Clustering analysis using K-Means
-   - Output: [View Dashboard](./dashboard/README.md)
+   - [Code](./dashboard/README.md)
 
 ## 🛠 Skills Gained
 - Python (Pandas, NumPy, Matplotlib, Seaborn, Plotly)
