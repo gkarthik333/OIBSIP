@@ -1,10 +1,10 @@
 
 # <h1 align="center"> Oasis Infobyte Data Analytics Internship</h1>
 
-📍 **Virtual Internship** | 📅 March 2025 - April 2025 **
+<h1 align="right">📍 Virtual Internship | 📅 March 2025 - April 2025</h1>
 
 ## 🔷 Tasks
-### **1. Exploratory Data Analysis (EDA) on Retail Sales Data **  
+1. **Exploratory Data Analysis (EDA) on Retail Sales Data**  
    - Tools: Python (Pandas, Numpy, Matplotlib, Seaborn, Plotly)
    - Key Tasks: Performed EDA, identified sales trends
    - [View](./sales_analysis.ipynb)
