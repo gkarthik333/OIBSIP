@@ -9,8 +9,8 @@
 1. **Exploratory Data Analysis (EDA) on Retail Sales Data**  
    - Tools: Python (Pandas, Numpy, Matplotlib, Seaborn, Plotly) & Tableau 
    - Key Tasks: Performed EDA, identified sales trends , Dashboard Creation And Reports .
-    - <a href="https://github.com/gkarthik333/OIBSIP/blob/main/Task%201/EDA%20-%20Retail%20Sale.ipynb">View</a>
-     - <a href="">Dashboard </a>
+    - <a href="https://github.com/gkarthik333/OIBSIP/blob/main/Task%201/EDA%20-%20Retail%20Sale.ipynb">Code</a>
+     - <a href="https://github.com/gkarthik333/OIBSIP/blob/main/Task%201/Sales%20view.png">Dashboard View</a>
 
 2. **Data Cleaning - New York City Airbnb Open Data**  
    - Tools: Pandas, Numpy, Matplotlib, Seaborn
