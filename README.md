@@ -7,7 +7,7 @@
 
 ## 🔷 Tasks
 1. **Exploratory Data Analysis (EDA) on Retail Sales Data**  
-   - Tools: Python (Pandas, Numpy, Matplotlib, Seaborn, Plotly) & Tableau 
+   - Tools: Python (Pandas, Numpy, Matplotlib, Seaborn) & Tableau 
    - Key Tasks: Performed EDA, identified sales trends , Dashboard Creation And Reports .
     - <a href="https://github.com/gkarthik333/OIBSIP/blob/main/Task%201/EDA%20-%20Retail%20Sale.ipynb">Code</a>
      - <a href="https://github.com/gkarthik333/OIBSIP/blob/main/Task%201/Sales%20view.png">Dashboard View</a>
@@ -23,7 +23,7 @@
     - <a href="https://github.com/gkarthik333/OIBSIP/blob/main/Task%203/CSA.ipynb">View</a>
 
 ## 🛠 Skills Gained
-- Python (Pandas, NumPy, Matplotlib, Seaborn, Plotly)
+- Python (Pandas, NumPy, Matplotlib, Seaborn)
 - Data Cleaning & EDA
 - Statistical Analysis
 
